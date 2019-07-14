@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:  Arial, Helvetica, sans-serif;
+ 
+   
+    
+}
+h1 {
+    display: block;
+    margin-left: 350px;
+    margin-top: 0px;
+    padding: 20px;
+}
+
+table,th,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+table {
+   border-collapse: collapse;
+   width: 70%;
+   
+}
+
+th,td{
+    padding : 10px;
+}
+
+.image{
+    text-align: center;
+}
+.mainheader ul {
+    opacity: .7;
+    list-style-type: none;
+    margin-top: 0;
+    bottom:0;
+    padding: 0;
+    overflow: auto;
+    background-color:  #16191d;
+    position: fixed;
+    height: 100%;
+    width: 20%;
+    
+    
+}
+
+.mainheader li a{
+    display: block;
+    text-decoration: none;
+    padding: 25px 20px;
+    color: #ffffff;
+    text-align: left;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #2c323a;
+   
+    
+    
+}
+
+.mainheader li a:hover{
+    background-color: #373f49;
+    color:black;
+    
+}
+
+
+
+.second
+{
+    width: 78%;
+    border : 1px solid gray;
+    margin-top: 3%;
+    
+    
+}
+
+.second ul{
+    list-style-type: none;
+    padding : 5px 10px 5px 10px;
+    overflow: hidden;
+    background-color: darkgray;
+    
+   
+}
+
+.second li {
+    float : left;
+    padding : 10 px;
+    padding : 5px 10px 5px 10px;
+    
+}
+
+.second li a{
+    text-decoration: none;
+}
+
+li.right {
+    float: right;
+    
+}
+
+
+.button{
+    
+    float:right;
+    padding-right: 25px;
+    border:none;
+    background-color: white;
+    cursor:pointer;
+    
+   
+}
+
+
+.logout_button{
+    
+    
+    padding: 10px 0 0 0; 
+    margin-top:2%;
+                  
+   
+}
+
+.buttondiv{
+    margin: 0 5px 20px 0;
+}
+
+div 
+{
+    margin-left: 21%;
+   
+}
+
+.body{
+    margin-top: 40px;
+    
+}
+
+.underline{
+    height: 0;
+    width: 78%;
+    border-bottom: 1px solid #cccccc;
+}
+
+.table-wrap{
+   
+   border: 1px solid #cccccc;
+   padding: 17px;
+   width: 76%;
+   
+   
+   
+}
+
+.table-wrap table{
+    margin: 0 auto;
+}
+
+.heading{
+    color:  #3973ac;
+}
+
+footer{
+    margin-top: 100px;
+}
